@@ -1,0 +1,12 @@
+[
+    {
+      "dest": "app/design/frontend/Omnyfy/project-customization",
+      "repo": "git@bitbucket.org:omnyfyteam/marketplace-tractionbridge-theme.git",
+      "version": "master"
+    },
+    {
+      "dest": "app/design/frontend/Omnyfy/hthththt",
+      "repo": "git@bitbucket.org:omnyfyteam/mhthththe.git",
+      "version": "master"
+    }
+]
