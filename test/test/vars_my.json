@@ -1,12 +1,18 @@
 [
-    {
-      "dest": "app/design/frontend/Omnyfy/project-customization",
-      "repo": "git@bitbucket.org:omnyfyteam/marketplace-tractionbridge-theme.git",
-      "version": "master"
-    },
-    {
-      "dest": "app/design/frontend/Omnyfy/hthththt",
-      "repo": "git@bitbucket.org:omnyfyteam/mhthththe.git",
-      "version": "master"
-    }
+  {
+      "dest": "app/code/Omnyfy/ContentPosts",
+      "repo": "git@bitbucket.org:omnyfyteam/omnyfy_contentposts.git",
+      "version": "4.0.2"
+  },
+  {
+      "dest": "app/code/Omnyfy/DashboardBannerTiles",
+      "repo": "git@bitbucket.org:omnyfyteam/omnyfy_dashboardbannertiles.git",
+      "version": "omnyfy4",
+      "state": "replace"
+  },
+  {
+      "dest": "app/code/Omnyfy/DomPDF",
+      "repo": "git@bitbucket.org:omnyfyteam/omnyfy-dompdf.git",
+      "version": "clickzy-dompdf"
+  }
 ]
